@@ -1,0 +1,38 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:15px 15px 15px cyan;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_footer
+{
+     position: fixed;
+     color: white;
+     background-color: black;
+     bottom: 0;
+     width: 100%;
+     line-height: 4;
+     text-align: center;
+     font-size: large;
+}
+
+canvas
+{
+    border: 5px solid red;
+    border-radius: 10px;
+    box-shadow:15px 15px 15px rgb(43, 255, 0);
+}
+
+video
+{
+    padding-left: 50px;
+    padding-top: 50px;
+}
